@@ -92,7 +92,7 @@ nav#menu ul{
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 300px;
+    left: 680px;
 }
 
 nav#menu li{
@@ -105,6 +105,7 @@ nav#menu li{
 
 nav#menu li:hover{
     background-color: #606060;
+    -webkit-transition: 0.2s ease-in;
 }
 
 nav#menu h1{
